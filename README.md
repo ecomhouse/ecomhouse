@@ -1,7 +1,7 @@
 ### About us
 
 We're an agile e-commerce software house, we create solutions that not only work but are also great to use. <br>
-We don't just create quality technology - we help your online business to thrive.
+We don't just create technology - we help your online business to thrive.
 If you want to use our code w/o talking with us - we've decided to contribute to the open source world.
 
 Feel free to use it, share and contribute.
